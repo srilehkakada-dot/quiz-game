@@ -1,0 +1,234 @@
+{
+  "science": {
+    "Easy": [
+      {"question": "What planet is closest to the Sun?", "options": ["Venus", "Mercury", "Mars", "Earth"], "correctIndex": 1, "explanation": "Mercury is the closest planet to the Sun in our solar system."},
+      {"question": "What gas do plants absorb from the air?", "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"], "correctIndex": 2, "explanation": "Plants absorb carbon dioxide during photosynthesis to make food."},
+      {"question": "How many bones are in the adult human body?", "options": ["206", "186", "256", "300"], "correctIndex": 0, "explanation": "An adult human body has 206 bones."},
+      {"question": "What is the chemical symbol for water?", "options": ["WA", "H2O", "HO2", "W"], "correctIndex": 1, "explanation": "Water is made of 2 Hydrogen and 1 Oxygen atom, so H2O."},
+      {"question": "Which organ pumps blood through the body?", "options": ["Lungs", "Liver", "Kidney", "Heart"], "correctIndex": 3, "explanation": "The heart pumps blood continuously through the circulatory system."},
+      {"question": "What is the center of an atom called?", "options": ["Electron", "Proton", "Nucleus", "Neutron"], "correctIndex": 2, "explanation": "The nucleus is the central part of an atom containing protons and neutrons."},
+      {"question": "What force keeps us on the ground?", "options": ["Magnetism", "Gravity", "Friction", "Tension"], "correctIndex": 1, "explanation": "Gravity is the force that pulls objects toward the Earth."}
+    ],
+    "Medium": [
+      {"question": "What is the powerhouse of the cell?", "options": ["Nucleus", "Ribosome", "Mitochondria", "Vacuole"], "correctIndex": 2, "explanation": "Mitochondria produce ATP energy for the cell, earning the nickname 'powerhouse of the cell'."},
+      {"question": "What is the speed of light?", "options": ["300,000 km/s", "150,000 km/s", "450,000 km/s", "100,000 km/s"], "correctIndex": 0, "explanation": "Light travels at approximately 300,000 kilometers per second in a vacuum."},
+      {"question": "Which element has the atomic number 1?", "options": ["Helium", "Oxygen", "Hydrogen", "Carbon"], "correctIndex": 2, "explanation": "Hydrogen is the lightest and most abundant element with atomic number 1."},
+      {"question": "What is the chemical formula for table salt?", "options": ["KCl", "NaCl", "CaCl2", "MgCl"], "correctIndex": 1, "explanation": "Table salt is sodium chloride, with the chemical formula NaCl."},
+      {"question": "How many chromosomes do humans have?", "options": ["23", "46", "48", "44"], "correctIndex": 1, "explanation": "Humans have 46 chromosomes arranged in 23 pairs."},
+      {"question": "What type of rock is formed from cooled lava?", "options": ["Sedimentary", "Metamorphic", "Igneous", "Limestone"], "correctIndex": 2, "explanation": "Igneous rocks form when molten lava or magma cools and solidifies."},
+      {"question": "What is the most abundant gas in Earth's atmosphere?", "options": ["Oxygen", "Carbon Dioxide", "Argon", "Nitrogen"], "correctIndex": 3, "explanation": "Nitrogen makes up about 78% of Earth's atmosphere."}
+    ],
+    "Hard": [
+      {"question": "What is the Heisenberg Uncertainty Principle?", "options": ["Energy cannot be created", "Position and momentum cannot both be precisely known", "Light speed is constant", "Mass equals energy"], "correctIndex": 1, "explanation": "The principle states that the position and momentum of a particle cannot both be precisely measured simultaneously."},
+      {"question": "What particle was discovered at CERN in 2012?", "options": ["Quark", "Higgs Boson", "Graviton", "Neutrino"], "correctIndex": 1, "explanation": "The Higgs Boson, which gives particles mass, was confirmed at CERN's Large Hadron Collider in 2012."},
+      {"question": "What is the pH of a neutral solution?", "options": ["0", "14", "7", "5"], "correctIndex": 2, "explanation": "A neutral solution has a pH of exactly 7, like pure water."},
+      {"question": "What is CRISPR used for?", "options": ["Space travel", "Gene editing", "Drug synthesis", "Cancer treatment only"], "correctIndex": 1, "explanation": "CRISPR-Cas9 is a gene-editing technology that allows scientists to modify DNA sequences precisely."},
+      {"question": "Which law states force equals mass times acceleration?", "options": ["Newton's First Law", "Newton's Third Law", "Newton's Second Law", "Hooke's Law"], "correctIndex": 2, "explanation": "Newton's Second Law of Motion states F = ma (Force = mass × acceleration)."},
+      {"question": "What is the half-life of Carbon-14?", "options": ["1,000 years", "5,730 years", "10,000 years", "500 years"], "correctIndex": 1, "explanation": "Carbon-14 has a half-life of approximately 5,730 years, used in radiocarbon dating."},
+      {"question": "What is quantum entanglement?", "options": ["Atoms bonding together", "Particles sharing state regardless of distance", "Light bending around gravity", "Nuclear fusion"], "correctIndex": 1, "explanation": "Quantum entanglement is when two particles become linked and share quantum states instantly, regardless of distance."}
+    ]
+  },
+  "history": {
+    "Easy": [
+      {"question": "Who was the first President of the United States?", "options": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"], "correctIndex": 1, "explanation": "George Washington was the first President of the United States, serving from 1789 to 1797."},
+      {"question": "In which year did World War II end?", "options": ["1943", "1944", "1945", "1946"], "correctIndex": 2, "explanation": "World War II ended in 1945 with Germany surrendering in May and Japan in September."},
+      {"question": "Who built the Great Wall of China?", "options": ["Mongols", "Japanese", "Chinese Emperors", "British"], "correctIndex": 2, "explanation": "The Great Wall was built by various Chinese emperors over centuries to protect against invasions."},
+      {"question": "Which country did Christopher Columbus sail for?", "options": ["Portugal", "England", "Spain", "France"], "correctIndex": 2, "explanation": "Columbus sailed under the Spanish crown when he discovered the Americas in 1492."},
+      {"question": "What ancient wonder was located in Egypt?", "options": ["Colosseum", "Great Pyramid of Giza", "Parthenon", "Stonehenge"], "correctIndex": 1, "explanation": "The Great Pyramid of Giza is the only surviving wonder of the ancient world."},
+      {"question": "Who was the first man to walk on the moon?", "options": ["Buzz Aldrin", "Yuri Gagarin", "Neil Armstrong", "John Glenn"], "correctIndex": 2, "explanation": "Neil Armstrong became the first human to walk on the moon on July 20, 1969."},
+      {"question": "Which empire was Julius Caesar a part of?", "options": ["Greek Empire", "Ottoman Empire", "Roman Empire", "British Empire"], "correctIndex": 2, "explanation": "Julius Caesar was a Roman general and statesman who played a critical role in the Roman Empire."}
+    ],
+    "Medium": [
+      {"question": "In what year did the Berlin Wall fall?", "options": ["1987", "1989", "1991", "1993"], "correctIndex": 1, "explanation": "The Berlin Wall fell on November 9, 1989, marking the end of the Cold War era in Germany."},
+      {"question": "Who was the Egyptian queen who allied with Julius Caesar?", "options": ["Nefertiti", "Cleopatra", "Hatshepsut", "Isis"], "correctIndex": 1, "explanation": "Cleopatra VII formed powerful alliances with Julius Caesar and later Mark Antony."},
+      {"question": "What was the name of the first artificial satellite?", "options": ["Explorer 1", "Vostok", "Sputnik", "Apollo"], "correctIndex": 2, "explanation": "Sputnik 1, launched by the Soviet Union in 1957, was the first artificial satellite to orbit Earth."},
+      {"question": "Which country was NOT part of the Allied Powers in WWII?", "options": ["USA", "UK", "Germany", "France"], "correctIndex": 2, "explanation": "Germany was part of the Axis Powers along with Italy and Japan during World War II."},
+      {"question": "What event started World War I?", "options": ["Bombing of Pearl Harbor", "Assassination of Archduke Franz Ferdinand", "Fall of Berlin Wall", "Russian Revolution"], "correctIndex": 1, "explanation": "The assassination of Archduke Franz Ferdinand of Austria in 1914 triggered World War I."},
+      {"question": "Who wrote the Declaration of Independence?", "options": ["George Washington", "Benjamin Franklin", "Thomas Jefferson", "John Adams"], "correctIndex": 2, "explanation": "Thomas Jefferson was the primary author of the Declaration of Independence in 1776."},
+      {"question": "Which civilization built Machu Picchu?", "options": ["Aztec", "Maya", "Inca", "Olmec"], "correctIndex": 2, "explanation": "Machu Picchu was built by the Inca civilization in the 15th century in present-day Peru."}
+    ],
+    "Hard": [
+      {"question": "What was the name of the treaty that ended World War I?", "options": ["Treaty of Paris", "Treaty of Versailles", "Treaty of Vienna", "Treaty of Berlin"], "correctIndex": 1, "explanation": "The Treaty of Versailles, signed in 1919, officially ended World War I and imposed heavy penalties on Germany."},
+      {"question": "Who led the Bolshevik Revolution in Russia?", "options": ["Stalin", "Trotsky", "Lenin", "Kerensky"], "correctIndex": 2, "explanation": "Vladimir Lenin led the Bolshevik Revolution in October 1917, which established Soviet rule in Russia."},
+      {"question": "What was the main cause of the fall of the Western Roman Empire?", "options": ["Volcanic eruption", "Barbarian invasions and internal decay", "Black Death", "Economic boom"], "correctIndex": 1, "explanation": "A combination of barbarian invasions, economic troubles, and internal political instability caused the fall of the Western Roman Empire in 476 AD."},
+      {"question": "Which battle is considered Napoleon's greatest victory?", "options": ["Battle of Waterloo", "Battle of Trafalgar", "Battle of Austerlitz", "Battle of Leipzig"], "correctIndex": 2, "explanation": "The Battle of Austerlitz in 1805 is widely considered Napoleon's greatest tactical victory."},
+      {"question": "What was the Magna Carta?", "options": ["A war declaration", "A document limiting royal power", "A trade agreement", "A religious text"], "correctIndex": 1, "explanation": "The Magna Carta, signed in 1215, was a charter that limited the power of the English king and is a foundation of constitutional law."},
+      {"question": "Which dynasty built the Forbidden City in Beijing?", "options": ["Han Dynasty", "Tang Dynasty", "Ming Dynasty", "Qing Dynasty"], "correctIndex": 2, "explanation": "The Forbidden City was built during the Ming Dynasty in the early 15th century under Emperor Yongle."},
+      {"question": "What was the significance of the Battle of Thermopylae?", "options": ["Greek victory over Persians", "300 Spartans held off Persian army", "Roman conquest of Greece", "End of the Trojan War"], "correctIndex": 1, "explanation": "At Thermopylae in 480 BC, 300 Spartans and allies held off a massive Persian army for three days before being defeated."}
+    ]
+  },
+  "technology": {
+    "Easy": [
+      {"question": "Who founded Microsoft?", "options": ["Steve Jobs", "Bill Gates", "Elon Musk", "Mark Zuckerberg"], "correctIndex": 1, "explanation": "Bill Gates co-founded Microsoft in 1975 with Paul Allen."},
+      {"question": "What does CPU stand for?", "options": ["Central Power Unit", "Computer Processing Unit", "Central Processing Unit", "Core Processing Unit"], "correctIndex": 2, "explanation": "CPU stands for Central Processing Unit, the main processor of a computer."},
+      {"question": "What does 'www' stand for?", "options": ["World Wide Web", "World Web Wide", "Wide World Web", "Web World Wide"], "correctIndex": 0, "explanation": "WWW stands for World Wide Web, invented by Tim Berners-Lee in 1989."},
+      {"question": "Which company made the iPhone?", "options": ["Samsung", "Google", "Apple", "Microsoft"], "correctIndex": 2, "explanation": "Apple Inc. created and released the first iPhone in 2007 under Steve Jobs."},
+      {"question": "What does 'AI' stand for?", "options": ["Automated Internet", "Artificial Intelligence", "Advanced Integration", "Automated Interface"], "correctIndex": 1, "explanation": "AI stands for Artificial Intelligence, the simulation of human intelligence by machines."},
+      {"question": "What is used to protect a computer from viruses?", "options": ["Firewall only", "Antivirus software", "VPN", "Browser"], "correctIndex": 1, "explanation": "Antivirus software detects and removes malicious software from computers."},
+      {"question": "What does USB stand for?", "options": ["Universal Serial Bus", "United System Board", "Universal System Base", "Unified Serial Bridge"], "correctIndex": 0, "explanation": "USB stands for Universal Serial Bus, a standard for connecting devices to computers."}
+    ],
+    "Medium": [
+      {"question": "What programming language was created by Guido van Rossum?", "options": ["Java", "Python", "C++", "Ruby"], "correctIndex": 1, "explanation": "Python was created by Guido van Rossum and first released in 1991."},
+      {"question": "What does HTML stand for?", "options": ["Hyper Text Markup Language", "High Transfer Markup Language", "Hyper Transfer Mode Language", "Home Tool Markup Language"], "correctIndex": 0, "explanation": "HTML stands for HyperText Markup Language, the standard language for creating web pages."},
+      {"question": "What is the binary equivalent of decimal 10?", "options": ["1010", "1100", "1001", "0110"], "correctIndex": 0, "explanation": "Decimal 10 = 1010 in binary (8+2=10)."},
+      {"question": "What does RAM stand for?", "options": ["Read Access Memory", "Random Access Memory", "Rapid Access Module", "Read And Memorize"], "correctIndex": 1, "explanation": "RAM stands for Random Access Memory, the temporary storage used by running programs."},
+      {"question": "Which protocol is used to send emails?", "options": ["HTTP", "FTP", "SMTP", "SSH"], "correctIndex": 2, "explanation": "SMTP (Simple Mail Transfer Protocol) is the standard protocol for sending emails."},
+      {"question": "What is an algorithm?", "options": ["A computer virus", "A step-by-step problem-solving procedure", "A programming language", "A type of hardware"], "correctIndex": 1, "explanation": "An algorithm is a set of step-by-step instructions for solving a problem or completing a task."},
+      {"question": "What does SQL stand for?", "options": ["Structured Query Language", "Simple Query Logic", "System Query Language", "Standard Query List"], "correctIndex": 0, "explanation": "SQL stands for Structured Query Language, used to manage and query databases."}
+    ],
+    "Hard": [
+      {"question": "What is Big O notation used for?", "options": ["Database design", "Describing algorithm complexity", "Network protocols", "Memory allocation"], "correctIndex": 1, "explanation": "Big O notation is used to describe the time and space complexity of algorithms as input size grows."},
+      {"question": "What is a REST API?", "options": ["A type of database", "An architectural style for networked applications", "A programming language", "A security protocol"], "correctIndex": 1, "explanation": "REST (Representational State Transfer) is an architectural style for designing networked applications using HTTP."},
+      {"question": "What is Docker used for?", "options": ["Version control", "Containerization of applications", "Database management", "UI design"], "correctIndex": 1, "explanation": "Docker is a platform for containerizing applications, allowing them to run consistently across different environments."},
+      {"question": "What is a deadlock in computing?", "options": ["System shutdown", "Two processes waiting for each other indefinitely", "Memory overflow", "Network failure"], "correctIndex": 1, "explanation": "A deadlock occurs when two or more processes are each waiting for the other to release resources, causing all to be stuck."},
+      {"question": "What does HTTPS stand for?", "options": ["Hyper Text Transfer Protocol Secure", "High Transfer Text Protocol System", "Hyper Transfer Text Protocol Secure", "Home Text Transfer Protocol Secure"], "correctIndex": 0, "explanation": "HTTPS stands for HyperText Transfer Protocol Secure, which encrypts data between browser and server."},
+      {"question": "What is a binary tree?", "options": ["A file system", "A data structure where each node has at most 2 children", "A network topology", "A sorting algorithm"], "correctIndex": 1, "explanation": "A binary tree is a hierarchical data structure where each node has at most two children, called left and right."},
+      {"question": "What is machine learning?", "options": ["Programming robots manually", "Systems that learn from data without explicit programming", "Hardware optimization", "A type of CPU"], "correctIndex": 1, "explanation": "Machine learning is a subset of AI where systems automatically learn and improve from experience without being explicitly programmed."}
+    ]
+  },
+  "geography": {
+    "Easy": [
+      {"question": "What is the largest continent?", "options": ["Africa", "Europe", "Asia", "Australia"], "correctIndex": 2, "explanation": "Asia is the largest continent by both area and population."},
+      {"question": "What is the capital of France?", "options": ["London", "Berlin", "Rome", "Paris"], "correctIndex": 3, "explanation": "Paris is the capital and largest city of France."},
+      {"question": "Which is the longest river in the world?", "options": ["Amazon", "Nile", "Mississippi", "Yangtze"], "correctIndex": 1, "explanation": "The Nile River in Africa is generally considered the longest river in the world."},
+      {"question": "How many continents are there on Earth?", "options": ["5", "6", "7", "8"], "correctIndex": 2, "explanation": "There are 7 continents on Earth: Africa, Antarctica, Asia, Australia, Europe, North America, and South America."},
+      {"question": "What is the smallest country in the world?", "options": ["Monaco", "San Marino", "Vatican City", "Liechtenstein"], "correctIndex": 2, "explanation": "Vatican City is the smallest country in the world by both area and population."},
+      {"question": "Which ocean is the largest?", "options": ["Atlantic", "Indian", "Arctic", "Pacific"], "correctIndex": 3, "explanation": "The Pacific Ocean is the largest and deepest ocean on Earth."},
+      {"question": "What is the capital of Japan?", "options": ["Osaka", "Tokyo", "Kyoto", "Hiroshima"], "correctIndex": 1, "explanation": "Tokyo is the capital and most populous city of Japan."}
+    ],
+    "Medium": [
+      {"question": "Which country has the most natural lakes?", "options": ["Russia", "USA", "Brazil", "Canada"], "correctIndex": 3, "explanation": "Canada has more lakes than any other country, containing about 60% of the world's lakes."},
+      {"question": "What is the tallest mountain in the world?", "options": ["K2", "Mount Everest", "Kangchenjunga", "Makalu"], "correctIndex": 1, "explanation": "Mount Everest at 8,848.86 meters is the tallest mountain in the world above sea level."},
+      {"question": "Which desert is the largest in the world?", "options": ["Sahara", "Gobi", "Arabian", "Antarctic"], "correctIndex": 3, "explanation": "Antarctica is technically the largest desert in the world as it receives very little precipitation."},
+      {"question": "What is the capital of Australia?", "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"], "correctIndex": 2, "explanation": "Canberra is the capital of Australia, not Sydney as many people think."},
+      {"question": "Which country is both in Europe and Asia?", "options": ["Egypt", "Turkey", "Greece", "Georgia"], "correctIndex": 1, "explanation": "Turkey spans both Europe and Asia, with a small portion in southeastern Europe and the rest in Western Asia."},
+      {"question": "What is the longest mountain range in the world?", "options": ["Himalayas", "Rockies", "Alps", "Andes"], "correctIndex": 3, "explanation": "The Andes in South America is the longest continental mountain range in the world at 7,000 km."},
+      {"question": "Which country has the largest population?", "options": ["USA", "China", "India", "Indonesia"], "correctIndex": 2, "explanation": "India surpassed China in 2023 to become the world's most populous country."}
+    ],
+    "Hard": [
+      {"question": "What is the deepest lake in the world?", "options": ["Caspian Sea", "Lake Superior", "Lake Baikal", "Lake Titicaca"], "correctIndex": 2, "explanation": "Lake Baikal in Russia is the world's deepest lake at 1,642 meters deep."},
+      {"question": "Which country has the most time zones?", "options": ["Russia", "USA", "China", "France"], "correctIndex": 3, "explanation": "France has 12 time zones when including its overseas territories, more than any other country."},
+      {"question": "What is the name of the tectonic plate under the Pacific Ocean?", "options": ["Atlantic Plate", "Pacific Plate", "Indo-Australian Plate", "Nazca Plate"], "correctIndex": 1, "explanation": "The Pacific Plate is the largest tectonic plate and lies under the Pacific Ocean."},
+      {"question": "Which African country has the largest area?", "options": ["Sudan", "Libya", "Algeria", "Democratic Republic of Congo"], "correctIndex": 2, "explanation": "Algeria is the largest country in Africa by area, covering about 2.38 million square kilometers."},
+      {"question": "What is the Mariana Trench?", "options": ["Longest river", "Deepest point in ocean", "Highest mountain", "Largest desert"], "correctIndex": 1, "explanation": "The Mariana Trench in the Pacific Ocean is the deepest point on Earth at about 11,000 meters below sea level."},
+      {"question": "Which country has the longest coastline?", "options": ["Russia", "Australia", "Norway", "Canada"], "correctIndex": 3, "explanation": "Canada has the longest coastline in the world at approximately 202,080 kilometers."},
+      {"question": "What is the Ring of Fire?", "options": ["A desert region", "A zone of volcanic and seismic activity", "A trade route", "A mountain range"], "correctIndex": 1, "explanation": "The Ring of Fire is a region around the Pacific Ocean known for frequent earthquakes and volcanic eruptions."}
+    ]
+  },
+  "sports": {
+    "Easy": [
+      {"question": "How many players are on a soccer team?", "options": ["9", "10", "11", "12"], "correctIndex": 2, "explanation": "A soccer team has 11 players including the goalkeeper."},
+      {"question": "How many rings are on the Olympic flag?", "options": ["4", "5", "6", "7"], "correctIndex": 1, "explanation": "The Olympic flag has 5 rings representing the 5 continents of the world."},
+      {"question": "In which sport do you use a shuttlecock?", "options": ["Tennis", "Squash", "Badminton", "Ping Pong"], "correctIndex": 2, "explanation": "A shuttlecock (also called a birdie) is used in the sport of badminton."},
+      {"question": "How many points is a touchdown worth in American football?", "options": ["3", "5", "6", "7"], "correctIndex": 2, "explanation": "A touchdown is worth 6 points in American football."},
+      {"question": "What sport is played at Wimbledon?", "options": ["Cricket", "Tennis", "Golf", "Rugby"], "correctIndex": 1, "explanation": "Wimbledon is the world's oldest tennis tournament, held annually in London."},
+      {"question": "How many players are in a basketball team on the court?", "options": ["4", "5", "6", "7"], "correctIndex": 1, "explanation": "Each basketball team has 5 players on the court at a time."},
+      {"question": "In which sport would you perform a slam dunk?", "options": ["Volleyball", "Basketball", "Tennis", "Baseball"], "correctIndex": 1, "explanation": "A slam dunk is a basketball move where a player jumps and puts the ball directly into the basket."}
+    ],
+    "Medium": [
+      {"question": "Which country has won the most FIFA World Cups?", "options": ["Germany", "Argentina", "Italy", "Brazil"], "correctIndex": 3, "explanation": "Brazil has won the FIFA World Cup 5 times, more than any other country."},
+      {"question": "What is the maximum score in a single game of bowling?", "options": ["200", "250", "300", "350"], "correctIndex": 2, "explanation": "A perfect game in bowling is 300 points, achieved by rolling 12 consecutive strikes."},
+      {"question": "How long is a marathon?", "options": ["40 km", "42.195 km", "45 km", "38 km"], "correctIndex": 1, "explanation": "A marathon is 42.195 kilometers (26.2 miles) long."},
+      {"question": "In golf, what is it called when you score one under par?", "options": ["Eagle", "Birdie", "Bogey", "Albatross"], "correctIndex": 1, "explanation": "A birdie is when you complete a hole in one stroke fewer than par."},
+      {"question": "Which sport uses the term 'love' for zero?", "options": ["Cricket", "Badminton", "Tennis", "Squash"], "correctIndex": 2, "explanation": "In tennis, 'love' means zero score for a player."},
+      {"question": "How many Grand Slam tournaments are there in tennis?", "options": ["2", "3", "4", "5"], "correctIndex": 2, "explanation": "There are 4 Grand Slam tournaments: Australian Open, French Open, Wimbledon, and US Open."},
+      {"question": "What is the national sport of Japan?", "options": ["Judo", "Karate", "Sumo Wrestling", "Kendo"], "correctIndex": 2, "explanation": "Sumo wrestling is considered Japan's national sport with a history spanning centuries."}
+    ],
+    "Hard": [
+      {"question": "Who has won the most Olympic gold medals ever?", "options": ["Usain Bolt", "Carl Lewis", "Michael Phelps", "Mark Spitz"], "correctIndex": 2, "explanation": "Michael Phelps holds the record for most Olympic gold medals with 23 gold medals in swimming."},
+      {"question": "What is the diameter of a basketball hoop in inches?", "options": ["16 inches", "18 inches", "20 inches", "22 inches"], "correctIndex": 1, "explanation": "A regulation basketball hoop has an inner diameter of 18 inches."},
+      {"question": "Which country invented the sport of cricket?", "options": ["Australia", "India", "England", "South Africa"], "correctIndex": 2, "explanation": "Cricket originated in England in the 16th century and was formalized in the 18th century."},
+      {"question": "What is the highest possible break in snooker?", "options": ["147", "155", "150", "140"], "correctIndex": 0, "explanation": "The maximum break in snooker is 147 points, achieved by potting all 15 reds with blacks followed by all colors."},
+      {"question": "In what year were the first modern Olympic games held?", "options": ["1892", "1896", "1900", "1904"], "correctIndex": 1, "explanation": "The first modern Olympic Games were held in Athens, Greece in 1896."},
+      {"question": "What does 'LBW' stand for in cricket?", "options": ["Left Bat Wicket", "Leg Before Wicket", "Long Ball Wide", "Left Ball Wide"], "correctIndex": 1, "explanation": "LBW stands for Leg Before Wicket, a way of being dismissed in cricket."},
+      {"question": "Which country has won the most Rugby World Cups?", "options": ["Australia", "England", "South Africa", "New Zealand"], "correctIndex": 3, "explanation": "New Zealand (All Blacks) has won the Rugby World Cup 3 times, more than any other country."}
+    ]
+  },
+  "movies": {
+    "Easy": [
+      {"question": "Who directed the movie Titanic (1997)?", "options": ["Steven Spielberg", "James Cameron", "Christopher Nolan", "Michael Bay"], "correctIndex": 1, "explanation": "James Cameron directed Titanic, which became the highest-grossing film of its time."},
+      {"question": "Which movie features the character 'Simba'?", "options": ["Jungle Book", "Tarzan", "The Lion King", "Bambi"], "correctIndex": 2, "explanation": "Simba is the main character in Disney's The Lion King (1994)."},
+      {"question": "What is the name of the toy cowboy in Toy Story?", "options": ["Buzz", "Woody", "Rex", "Hamm"], "correctIndex": 1, "explanation": "Woody is the toy cowboy who is the main character in Toy Story."},
+      {"question": "Which film features the quote 'I'll be back'?", "options": ["RoboCop", "Predator", "Terminator", "Total Recall"], "correctIndex": 2, "explanation": "The famous line 'I'll be back' was said by Arnold Schwarzenegger in The Terminator (1984)."},
+      {"question": "What movie is set in the fictional kingdom of Arendelle?", "options": ["Moana", "Tangled", "Brave", "Frozen"], "correctIndex": 3, "explanation": "Frozen is set in the fictional Scandinavian kingdom of Arendelle."},
+      {"question": "Who plays Iron Man in the Marvel movies?", "options": ["Chris Evans", "Chris Hemsworth", "Robert Downey Jr.", "Mark Ruffalo"], "correctIndex": 2, "explanation": "Robert Downey Jr. plays Tony Stark / Iron Man in the Marvel Cinematic Universe."},
+      {"question": "Which movie has the famous shower scene with the violins?", "options": ["Halloween", "Psycho", "The Shining", "Jaws"], "correctIndex": 1, "explanation": "The famous shower scene is from Alfred Hitchcock's Psycho (1960)."}
+    ],
+    "Medium": [
+      {"question": "Which film won the first Academy Award for Best Picture?", "options": ["Wings", "All Quiet on the Western Front", "Sunrise", "The Broadway Melody"], "correctIndex": 0, "explanation": "Wings (1927) won the first Academy Award for Best Picture at the inaugural ceremony in 1929."},
+      {"question": "Who directed 2001: A Space Odyssey?", "options": ["Ridley Scott", "George Lucas", "Stanley Kubrick", "Steven Spielberg"], "correctIndex": 2, "explanation": "Stanley Kubrick directed 2001: A Space Odyssey (1968), considered one of the greatest films ever made."},
+      {"question": "What language is the movie Parasite (2019) primarily in?", "options": ["Japanese", "Mandarin", "Korean", "Vietnamese"], "correctIndex": 2, "explanation": "Parasite is a South Korean film in Korean that won Best Picture at the 2020 Academy Awards."},
+      {"question": "How many Oscars did The Lord of the Rings: Return of the King win?", "options": ["9", "10", "11", "12"], "correctIndex": 2, "explanation": "The Return of the King won 11 Academy Awards, tying the record for most Oscars won by a single film."},
+      {"question": "Which actress has won the most Academy Awards?", "options": ["Meryl Streep", "Katharine Hepburn", "Cate Blanchett", "Audrey Hepburn"], "correctIndex": 1, "explanation": "Katharine Hepburn holds the record with 4 Academy Awards for Best Actress."},
+      {"question": "What is the highest-grossing movie of all time?", "options": ["Avengers: Endgame", "Avatar", "Titanic", "Star Wars: The Force Awakens"], "correctIndex": 1, "explanation": "Avatar (2009, re-released 2022) is the highest-grossing film of all time with over $2.9 billion worldwide."},
+      {"question": "Who directed Schindler's List?", "options": ["Martin Scorsese", "Francis Ford Coppola", "Steven Spielberg", "Roman Polanski"], "correctIndex": 2, "explanation": "Steven Spielberg directed Schindler's List (1993), which won 7 Academy Awards including Best Picture."}
+    ],
+    "Hard": [
+      {"question": "What was the first feature-length animated film ever made?", "options": ["Bambi", "Pinocchio", "Snow White and the Seven Dwarfs", "Fantasia"], "correctIndex": 2, "explanation": "Snow White and the Seven Dwarfs (1937) was the first feature-length cel-animated film in motion picture history."},
+      {"question": "Which director is known for the 'Dogme 95' movement?", "options": ["Lars von Trier", "Ingmar Bergman", "Akira Kurosawa", "Jean-Luc Godard"], "correctIndex": 0, "explanation": "Lars von Trier co-founded the Dogme 95 movement with Thomas Vinterberg, emphasizing realistic filmmaking."},
+      {"question": "What film technique did Orson Welles pioneer in Citizen Kane?", "options": ["Slow motion", "Deep focus photography", "Color film", "Jump cuts"], "correctIndex": 1, "explanation": "Citizen Kane pioneered deep focus photography, keeping all planes of the image in sharp focus simultaneously."},
+      {"question": "Who composed the iconic score for the original Star Wars?", "options": ["Hans Zimmer", "John Williams", "Ennio Morricone", "Bernard Herrmann"], "correctIndex": 1, "explanation": "John Williams composed the iconic Star Wars score, one of the most recognizable film soundtracks ever."},
+      {"question": "What is the term for a single unedited camera shot?", "options": ["Cut", "Take", "Long take", "Sequence shot"], "correctIndex": 3, "explanation": "A sequence shot (or plan-séquence) is a single unedited camera shot that covers a complex scene."},
+      {"question": "Which film won the Palme d'Or at Cannes in 1994?", "options": ["Four Weddings and a Funeral", "Forrest Gump", "Pulp Fiction", "The Shawshank Redemption"], "correctIndex": 2, "explanation": "Pulp Fiction directed by Quentin Tarantino won the Palme d'Or at the 1994 Cannes Film Festival."},
+      {"question": "What is the Bechdel Test used for in film?", "options": ["Measuring box office success", "Measuring female representation", "Rating film quality", "Testing audience reactions"], "correctIndex": 1, "explanation": "The Bechdel Test measures female representation in film: does it have 2 named women who talk to each other about something other than a man?"}
+    ]
+  },
+  "music": {
+    "Easy": [
+      {"question": "How many strings does a standard guitar have?", "options": ["4", "5", "6", "7"], "correctIndex": 2, "explanation": "A standard guitar has 6 strings, tuned E-A-D-G-B-E."},
+      {"question": "Which band was Michael Jackson part of before going solo?", "options": ["The Beatles", "The Jackson 5", "Earth Wind & Fire", "The Temptations"], "correctIndex": 1, "explanation": "Michael Jackson began his career as part of The Jackson 5 with his brothers."},
+      {"question": "What instrument does a pianist play?", "options": ["Violin", "Guitar", "Piano", "Trumpet"], "correctIndex": 2, "explanation": "A pianist is a musician who plays the piano."},
+      {"question": "Which country does reggae music originate from?", "options": ["Brazil", "Cuba", "Jamaica", "Trinidad"], "correctIndex": 2, "explanation": "Reggae music originated in Jamaica in the late 1960s, popularized by Bob Marley."},
+      {"question": "How many notes are in a musical octave?", "options": ["6", "7", "8", "12"], "correctIndex": 2, "explanation": "An octave contains 8 notes (do, re, mi, fa, sol, la, ti, do)."},
+      {"question": "Who is known as the 'King of Pop'?", "options": ["Elvis Presley", "Michael Jackson", "Prince", "Justin Timberlake"], "correctIndex": 1, "explanation": "Michael Jackson earned the title 'King of Pop' for his massive influence on popular music."},
+      {"question": "What does a conductor use to lead an orchestra?", "options": ["Drumstick", "Baton", "Wand", "Stick"], "correctIndex": 1, "explanation": "A conductor uses a baton to direct and coordinate an orchestra's performance."}
+    ],
+    "Medium": [
+      {"question": "What is the tempo marking 'Allegro' in music?", "options": ["Very slow", "Slow", "Fast", "Very fast"], "correctIndex": 2, "explanation": "Allegro is an Italian musical term meaning fast and lively, typically 120-168 beats per minute."},
+      {"question": "Which composer wrote the 'Four Seasons'?", "options": ["Bach", "Mozart", "Vivaldi", "Beethoven"], "correctIndex": 2, "explanation": "Antonio Vivaldi composed The Four Seasons, a set of four violin concertos published in 1725."},
+      {"question": "What is a cappella singing?", "options": ["Singing with orchestra", "Singing with piano only", "Singing without instruments", "Singing in Italian"], "correctIndex": 2, "explanation": "A cappella refers to vocal music performed without instrumental accompaniment."},
+      {"question": "Which instrument is Yo-Yo Ma famous for playing?", "options": ["Violin", "Cello", "Viola", "Double Bass"], "correctIndex": 1, "explanation": "Yo-Yo Ma is a world-renowned cellist, considered one of the greatest musicians of our time."},
+      {"question": "What is the lowest male singing voice called?", "options": ["Tenor", "Baritone", "Bass", "Countertenor"], "correctIndex": 2, "explanation": "Bass is the lowest male singing voice, typically ranging from E2 to E4."},
+      {"question": "Which band recorded the album 'Abbey Road'?", "options": ["The Rolling Stones", "Led Zeppelin", "The Beatles", "Pink Floyd"], "correctIndex": 2, "explanation": "Abbey Road (1969) was the eleventh studio album by The Beatles."},
+      {"question": "What is the term for the speed of music?", "options": ["Pitch", "Tempo", "Rhythm", "Tone"], "correctIndex": 1, "explanation": "Tempo is the speed at which a piece of music is played, measured in beats per minute (BPM)."}
+    ],
+    "Hard": [
+      {"question": "What is a Neapolitan chord in music theory?", "options": ["A chord from Naples", "A flat II major chord", "A minor seventh chord", "A dominant chord"], "correctIndex": 1, "explanation": "A Neapolitan chord (N6) is a major chord built on the flattened second scale degree, used for dramatic effect."},
+      {"question": "How many symphonies did Beethoven compose?", "options": ["7", "8", "9", "10"], "correctIndex": 2, "explanation": "Beethoven composed 9 symphonies, with his 9th being the most famous, composed while he was deaf."},
+      {"question": "What is serialism in music?", "options": ["Playing in series", "Using a fixed series of tones", "Sequential rhythms", "Serial production"], "correctIndex": 1, "explanation": "Serialism is a compositional technique using a fixed series of pitches (12-tone technique) developed by Arnold Schoenberg."},
+      {"question": "Who invented the piano?", "options": ["Stradivarius", "Bartolomeo Cristofori", "Johann Sebastian Bach", "Mozart"], "correctIndex": 1, "explanation": "Bartolomeo Cristofori invented the piano around 1700 in Italy, calling it 'gravicembalo col piano e forte'."},
+      {"question": "What is counterpoint in music?", "options": ["Playing against the beat", "Two independent melodic lines played simultaneously", "A type of chord", "A rhythm technique"], "correctIndex": 1, "explanation": "Counterpoint is the technique of combining two or more independent melodic lines that harmonize with each other."},
+      {"question": "What does 'Da Capo' mean in music?", "options": ["From the beginning", "Repeat the chorus", "Speed up", "Play softly"], "correctIndex": 0, "explanation": "Da Capo (D.C.) is an Italian musical term meaning 'from the head/beginning', instructing players to repeat from the start."},
+      {"question": "Which scale has no sharps or flats?", "options": ["G Major", "D Major", "C Major", "F Major"], "correctIndex": 2, "explanation": "C Major is the only major scale that uses no sharps or flats, using only the white keys on a piano."}
+    ]
+  },
+  "literature": {
+    "Easy": [
+      {"question": "Who wrote Romeo and Juliet?", "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"], "correctIndex": 1, "explanation": "Romeo and Juliet was written by William Shakespeare around 1594-1596."},
+      {"question": "What is the name of the hobbit in 'The Lord of the Rings'?", "options": ["Gandalf", "Aragorn", "Frodo Baggins", "Samwise"], "correctIndex": 2, "explanation": "Frodo Baggins is the main protagonist hobbit in Tolkien's The Lord of the Rings."},
+      {"question": "Who wrote 'Harry Potter'?", "options": ["Roald Dahl", "J.R.R. Tolkien", "C.S. Lewis", "J.K. Rowling"], "correctIndex": 3, "explanation": "J.K. Rowling wrote the Harry Potter series, beginning with The Philosopher's Stone in 1997."},
+      {"question": "What is the first book of the Bible?", "options": ["Exodus", "Genesis", "Psalms", "Matthew"], "correctIndex": 1, "explanation": "Genesis is the first book of the Bible, describing the creation of the world."},
+      {"question": "Who wrote 'Pride and Prejudice'?", "options": ["Charlotte Bronte", "Emily Bronte", "Jane Austen", "Mary Shelley"], "correctIndex": 2, "explanation": "Pride and Prejudice was written by Jane Austen and published in 1813."},
+      {"question": "What is a haiku?", "options": ["A long poem", "A 3-line Japanese poem with 17 syllables", "A type of novel", "A love poem"], "correctIndex": 1, "explanation": "A haiku is a traditional Japanese poem with three lines of 5, 7, and 5 syllables respectively."},
+      {"question": "Who wrote 'The Adventures of Tom Sawyer'?", "options": ["Ernest Hemingway", "Mark Twain", "F. Scott Fitzgerald", "John Steinbeck"], "correctIndex": 1, "explanation": "The Adventures of Tom Sawyer was written by Mark Twain and published in 1876."}
+    ],
+    "Medium": [
+      {"question": "Who wrote '1984'?", "options": ["Aldous Huxley", "Ray Bradbury", "George Orwell", "H.G. Wells"], "correctIndex": 2, "explanation": "1984 was written by George Orwell and published in 1949, a dystopian novel about totalitarianism."},
+      {"question": "What is the longest novel ever written?", "options": ["War and Peace", "In Search of Lost Time", "Les Misérables", "Infinite Jest"], "correctIndex": 1, "explanation": "In Search of Lost Time by Marcel Proust is considered the longest novel with about 1.5 million words."},
+      {"question": "Who wrote 'One Hundred Years of Solitude'?", "options": ["Pablo Neruda", "Isabel Allende", "Gabriel Garcia Marquez", "Jorge Luis Borges"], "correctIndex": 2, "explanation": "One Hundred Years of Solitude was written by Gabriel Garcia Marquez, published in 1967."},
+      {"question": "What literary device is 'the wind whispered'?", "options": ["Metaphor", "Simile", "Personification", "Alliteration"], "correctIndex": 2, "explanation": "Personification is attributing human characteristics to non-human things, like wind whispering."},
+      {"question": "Who wrote 'The Great Gatsby'?", "options": ["Ernest Hemingway", "F. Scott Fitzgerald", "John Steinbeck", "William Faulkner"], "correctIndex": 1, "explanation": "The Great Gatsby was written by F. Scott Fitzgerald and published in 1925."},
+      {"question": "What genre is 'Don Quixote'?", "options": ["Poetry", "Drama", "Novel", "Short story"], "correctIndex": 2, "explanation": "Don Quixote by Miguel de Cervantes is widely considered the first modern novel, published in 1605."},
+      {"question": "Who wrote 'Crime and Punishment'?", "options": ["Leo Tolstoy", "Anton Chekhov", "Fyodor Dostoevsky", "Ivan Turgenev"], "correctIndex": 2, "explanation": "Crime and Punishment was written by Fyodor Dostoevsky and published in 1866."}
+    ],
+    "Hard": [
+      {"question": "What is the term for a novel about a character's development?", "options": ["Picaresque", "Bildungsroman", "Epistolary", "Gothic"], "correctIndex": 1, "explanation": "A Bildungsroman (coming-of-age story) is a novel focusing on the moral and psychological growth of the protagonist."},
+      {"question": "Who wrote 'Ulysses', considered one of the most difficult novels?", "options": ["Samuel Beckett", "Virginia Woolf", "James Joyce", "T.S. Eliot"], "correctIndex": 2, "explanation": "Ulysses was written by James Joyce and published in 1922, following Leopold Bloom through a single day in Dublin."},
+      {"question": "What is 'stream of consciousness' in literature?", "options": ["Writing about rivers", "A narrative technique depicting thoughts and feelings", "Writing in chronological order", "A poetic style"], "correctIndex": 1, "explanation": "Stream of consciousness is a narrative technique that depicts the continuous flow of thoughts, feelings, and perceptions of a character."},
+      {"question": "Who wrote 'The Waste Land'?", "options": ["W.B. Yeats", "Ezra Pound", "T.S. Eliot", "e.e. cummings"], "correctIndex": 2, "explanation": "The Waste Land is a landmark modernist poem by T.S. Eliot, published in 1922."},
+      {"question": "What is magical realism?", "options": ["Fantasy writing", "Realistic writing with magical elements", "Science fiction", "Horror writing"], "correctIndex": 1, "explanation": "Magical realism blends realistic narrative with surreal or magical elements, associated with Latin American literature."},
+      {"question": "Which Shakespeare play features the witches' prophecy?", "options": ["Hamlet", "King Lear", "Macbeth", "Othello"], "correctIndex": 2, "explanation": "The three witches and their prophecies are central to Shakespeare's Macbeth."},
+      {"question": "What is an unreliable narrator?", "options": ["A narrator who lies", "A narrator whose credibility is compromised", "A narrator who forgets things", "A third-person narrator"], "correctIndex": 1, "explanation": "An unreliable narrator is one whose credibility is compromised, making readers question the accuracy of their account."}
+    ]
+  }
+}

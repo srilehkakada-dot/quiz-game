@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>QuizMaster</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}"/>
+</head>
+<body>
+<h1 class="logo">QuizMaster</h1>
+<p class="subtitle">// No API Key Needed — Fully Offline</p>
+<div id="app"></div>
+<script>
+  const TOPICS = {{ topics | tojson }};
+</script>
+<script src="{{ url_for('static', filename='js/quiz.js') }}"></script>
+</body>
+</html>
